@@ -553,6 +553,6 @@
 	padding-top: 13px;
 }
 
-.playlistAPI .nano > .nano-pane   { background: #888; }
+.playlistAPI .nano > .nano-pane   { background: #C6002a; }
 .playlistAPI .nano > .nano-pane:hover {cursor: pointer;}
 .playlistAPI .nano > .nano-pane > .nano-slider { background: #111; }
